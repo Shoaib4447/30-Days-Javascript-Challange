@@ -34,5 +34,5 @@ console.log(task4);
 // Reassign a variable declared with const and oberve the error
 const observe = 'const variable'
 console.log(observe);
-observe = 'resigned const'
+// observe = 'resigned const'
 // console.log(observe); // Error: Assignment to constant variable.
